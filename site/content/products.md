@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Productss
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
